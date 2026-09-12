@@ -70,3 +70,39 @@ git clone \[https://github.com/](https://github.com/)ayushwani22-pixel/VoiceShie
 
 cd VoiceShield-AI
 
+
+
+
+
+
+
+
+
+\## 📁 Repository Structure
+
+
+
+```text
+
+├── app1.py               # Streamlit application entry point \& inference logic
+
+├── train\_model.py        # Model fine-tuning script
+
+├── create\_labels.py      # Dataset label generator
+
+├── requirements.txt      # Python dependencies
+
+├── .gitignore            # Git exclusion rules (weights, virtual envs, raw datasets)
+
+└── README.md             # Project documentation
+
+
+
+
+
+⚠️ Disclaimer
+
+This system is an anti-spoofing research prototype developed for academic and competition demonstration. Classification accuracy may vary across unseen voice-synthesis models, aggressive audio compression, extreme telephone line noise, or clips under 0.5 seconds.
+
+
+
