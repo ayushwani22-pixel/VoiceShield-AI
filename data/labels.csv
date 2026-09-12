@@ -1,0 +1,43 @@
+path,label
+data\real\real_01.wav,real
+data\real\real_02.wav,real
+data\real\real_03.wav,real
+data\real\real_04.wav,real
+data\real\real_05.wav,real
+data\real\real_06.wav,real
+data\real\real_07.wav,real
+data\real\real_08.wav,real
+data\real\real_09.wav,real
+data\real\real_10.wav,real
+data\real\real_sample_01.wav,real
+data\real\real_sample_02.wav,real
+data\real\real_sample_03.wav,real
+data\real\real_sample_04.wav,real
+data\real\real_sample_05.wav,real
+data\real\real_sample_06.wav,real
+data\real\real_sample_07.wav,real
+data\real\real_sample_08.wav,real
+data\real\real_sample_09.wav,real
+data\real\real_sample_10.wav,real
+data\fake\ai_sample_01.wav,fake
+data\fake\ai_sample_02.wav,fake
+data\fake\ai_sample_03.wav,fake
+data\fake\ai_sample_04.wav,fake
+data\fake\ai_sample_05.wav,fake
+data\fake\ai_sample_06.wav,fake
+"data\fake\ElevenLabs_2026-08-26T09_45_25_Zara - Sweet, Admiring and Approachable_pvc_sp100_s50_sb75_se0_b_m2.mp3",fake
+data\fake\ElevenLabs_2026-08-26T18_05_53_Monika Sogam – Numbers & Data Voice Bot_pvc_sp86_s77_sb98_se0_b_m2.mp3,fake
+data\fake\fake_01.wav,fake
+data\fake\fake_02.wav,fake
+data\fake\fake_03.wav,fake
+data\fake\fake_04.wav,fake
+data\fake\fake_05.wav,fake
+data\fake\fake_06.wav,fake
+data\fake\fake_07.wav,fake
+data\fake\fake_08.wav,fake
+data\fake\fake_09.wav,fake
+data\fake\fake_10.wav,fake
+data\fake\Recording.wav,fake
+data\fake\voice_preview_bunty - funny best friend.mp3,fake
+data\fake\voice_preview_kanika – confident news anchor.mp3,fake
+data\fake\voice_preview_sia - sweet & smart sales professional.mp3,fake

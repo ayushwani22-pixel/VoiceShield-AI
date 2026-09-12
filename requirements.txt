@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+librosa
+plotly
+numpy
+imageio-ffmpeg

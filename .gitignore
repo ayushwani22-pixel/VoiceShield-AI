@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Model Weights & Hugging Face Cache (Too large for GitHub)
+voice_model/
+*.safetensors
+*.bin
+*.pt
+
+# Data audio files
+data/real/
+data/fake/
+
+# Streamlit config
+.streamlit/
